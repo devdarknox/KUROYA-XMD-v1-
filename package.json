@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach -- KUROYA-MD ",
-    "stop": "pm2 stop your bot name
+    "stop": "pm2 stop KUROYA-MD 
     "restart": "pm2 restart KUROYA-MD "
   },
   "dependencies": {
