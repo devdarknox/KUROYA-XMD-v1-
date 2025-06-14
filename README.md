@@ -1,2 +1,2 @@
-# KUROYA-XMD-v1-
+# KUROYA-MD
 Whatsapp bot
